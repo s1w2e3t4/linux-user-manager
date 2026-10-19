@@ -1,0 +1,11 @@
+
+# Generated reports
+/reports/*
+!/reports/.gitkeep
+
+# Application logs
+/logs/*
+!/logs/.gitkeep
+
+# Local test fixture
+/tests/fixtures/sample.txt
